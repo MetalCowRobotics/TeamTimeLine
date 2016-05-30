@@ -1,31 +1,32 @@
 {
     "title": {
         "media": {
-          "url": "//www.flickr.com/photos/tm_10001/2310475988/",
-          "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-          "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+          "url": "https://www.metalcowrobotics.com/cms/mc_images/MetalCow4.jpg",
+          "caption": "Team Photo",
+          "credit": "Staff Photographer"
         },
         "text": {
-          "headline": "Whitney Houston<br/> 1963 - 2012",
-          "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+          "headline": "MetalCow Robotics",
+          "text": "<p>Team Timeline</p>"
         }
     },
     "events": [
       {
         "media": {
-          "url": "{{ static_url }}/img/examples/houston/family.jpg",
-          "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+          "url": "https://www.metalcowrobotics.com/cms/mc_images/MetalCow4.jpg",
+          "caption": "Team Photo",
+          "credit": "Staff Photographer"
         },
         "start_date": {
-          "month": "8",
-          "day": "9",
-          "year": "1963"
+          "month": "12",
+          "year": "2011"
         },
         "text": {
-          "headline": "A Musical Heritage",
-          "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
-        }
+          "headline": "MetalCow Robotics<br/> Founding Year",
+          "text": "<p>MetalCow Robotics was founded in December 2011 under the guidance of McLean County
+          Co-operative Extension with founding grants from JCPenney and University of Illinois Extension to
+           form a FIRST Robotics team. This partnership is an effort to provide new and exciting opportunities
+            to local high school youth in McLean, Woodford, and Livingston Counties.</p>"        }
       },
       {
         "media": {
